@@ -13,6 +13,14 @@ Yrkesinstituted Prakticum (information- och kommunikationsteknik examen) (2019- 
 
 ## Kunskaper <br>
 
+**HTML:** Acceptabel <br>
+**CSS:** Acceptabel <br>
+**Bootstrap:** Nybörjare <br>
+**JavaScript:** Nybörjare <br>
+**SQL:** Nybörjare <br>
+**Photoshop:** Nybörjare <br>
+**illustrator:** Nybörjare <br>
+
 [Link](url) and ![Image](src)
 ```
 
