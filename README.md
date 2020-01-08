@@ -1,27 +1,19 @@
-## Welcome to GitHub Pages
+# Benjamin Lundsten CV
 
-You can use the [editor on GitHub](https://github.com/BenjaminWillhelm/BenjaminLundsten-CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<br> <br> <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Kontaktuppgifter <br>
+                    <br>
+**telefon:** 044 9746102 <br>
+**adress:** åkerbrukarvägen 9 <br>
+**Post:** Esbo 02780 <br>
+**Email:** benne.wille@gmail.com <br>
 
-### Markdown
+## Utbildning <br> <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Yrkesinstituted Prakticum (information- och kommunikationsteknik examen) (2019- ) <br>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+## Kunskaper <br> <br>
 
 [Link](url) and ![Image](src)
 ```
