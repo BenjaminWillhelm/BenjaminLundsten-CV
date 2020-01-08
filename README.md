@@ -20,3 +20,4 @@ Yrkesinstituted Prakticum (information- och kommunikationsteknik examen) (2019- 
 **SQL:** Nybörjare <br>
 **Photoshop:** Nybörjare <br>
 **illustrator:** Nybörjare <br>
+**Fusion 360:** Nybörjare <br>
