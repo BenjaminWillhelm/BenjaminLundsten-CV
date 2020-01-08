@@ -1,19 +1,17 @@
 # Benjamin Lundsten CV
 
-<br> <br> <br>
-
 ## Kontaktuppgifter <br>
-                    <br>
+           
 **telefon:** 044 9746102 <br>
 **adress:** åkerbrukarvägen 9 <br>
 **Post:** Esbo 02780 <br>
 **Email:** benne.wille@gmail.com <br>
 
-## Utbildning <br> <br>
+## Utbildning <br>
 
 Yrkesinstituted Prakticum (information- och kommunikationsteknik examen) (2019- ) <br>
 
-## Kunskaper <br> <br>
+## Kunskaper <br>
 
 [Link](url) and ![Image](src)
 ```
